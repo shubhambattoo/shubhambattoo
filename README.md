@@ -5,6 +5,7 @@
 I am Shubham Battoo. I am currently working as a Software Developer. I want to contribute to Open Source Libraries on JavaScript and TypeScript. I love working with Web Technologies and building projects from the ground up.
 
 ![Shubhams's github stats](https://github-readme-stats.vercel.app/api?username=shubhambattoo&hide=["contribs","issues"]&show_icons=true)
+[![Shubham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambattoo&layout=compact)](https://github.com/shubhambattoo/)
 
 🔭 I’m currently working on ReactJS and NodeJS projects
 
