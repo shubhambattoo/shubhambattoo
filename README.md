@@ -2,7 +2,7 @@
   Hello there 👋
 </h1>
 
-I am Shubham Battoo. I am currently working as a Software Developer. I want to contribute to Open Source Libraries on JavaScript and TypeScript. I love working with Web Technologies and building projects from the ground up.
+I am Shubham Battoo. I am currently working as a Software Engineer. I love working with Web Technologies and building projects from the ground up.
 
 🔭 I’m currently working on ReactJS and NodeJS projects
 
