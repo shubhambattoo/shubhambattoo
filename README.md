@@ -14,8 +14,8 @@ I am Shubham Battoo. I am currently working as a Software Engineer. I love worki
 
 ⚡ Fun fact: I love listening to Kanye West
 
-![Shubhams's github stats](https://github-readme-stats.vercel.app/api?username=shubhambattoo&hide=["contribs","issues"]&show_icons=true&theme=synthwave) <br />
-[![Shubham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambattoo&layout=compact&theme=synthwave)](https://github.com/shubhambattoo/)
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 📫 How to reach me:
 <p align="left">
