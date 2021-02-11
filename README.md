@@ -16,7 +16,6 @@ I am Shubham Battoo. I am currently working as a Software Engineer. I love worki
 
 <!--START_SECTION:feed-->
 * [Array Indexing Method](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;array-indexing-method-1bag)
-* [Review: Epic React by Kent C. Dodds](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;review-epic-react-by-kent-c-dodds-16j7)
 * [Yearly Themes](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;yearly-themes-2op)
 * [Operator Lookup - Search for JavaScript Operators](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;operator-lookup-search-for-javascript-operators-jb0)
 * [Numeric Separators](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;numeric-separators-p4b)
