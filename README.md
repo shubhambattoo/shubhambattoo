@@ -19,6 +19,7 @@ I am Shubham Battoo. I am currently working as a Software Engineer. I love worki
 * [Yearly Themes](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;yearly-themes-2op)
 * [Operator Lookup - Search for JavaScript Operators](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;operator-lookup-search-for-javascript-operators-jb0)
 * [Numeric Separators](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;numeric-separators-p4b)
+* [Uploading Files to MongoDB with GridFS and Multer Using NodeJS](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;uploading-files-to-mongodb-with-gridfs-and-multer-using-nodejs-5aed)
 <!--END_SECTION:feed-->
 
 📫 How to reach me:
