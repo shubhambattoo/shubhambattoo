@@ -12,7 +12,7 @@ I am Shubham Battoo. I am currently working as a Software Engineer. I love worki
 
 💬 Ask me about JavaScript, ReactJS, Angular or Football 
 
-⚡ Fun fact: I love listening to Kanye West
+⚡ Fun fact: I love listening to Hip-Hop Music
 
 <!--START_SECTION:feed-->
 * [How to setup your react applications](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;how-to-setup-your-react-applications-5222)
