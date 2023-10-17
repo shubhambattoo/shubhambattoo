@@ -2,7 +2,7 @@
   Hello there 👋
 </h1>
 
-I am Shubham Battoo. I am currently working as a Software Engineer. I love working with Web Technologies and building projects from the ground up.
+I am Shubham Battoo. Self taught developer, currently working as a Software Engineer. I love working with Web Technologies and building projects from the ground up.
 
 🔭 I’m currently working on ReactJS and NodeJS projects
 
@@ -13,6 +13,10 @@ I am Shubham Battoo. I am currently working as a Software Engineer. I love worki
 💬 Ask me about JavaScript, ReactJS, Angular or Football 
 
 ⚡ Fun fact: I love listening to Hip-Hop Music
+
+Currently listening 🎶
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shubhambatt997&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=shubhambatt997&redirect=true)
 
 <!--START_SECTION:feed-->
 * [How to setup your react applications](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;how-to-setup-your-react-applications-5222)
@@ -37,18 +41,3 @@ I am Shubham Battoo. I am currently working as a Software Engineer. I love worki
     <img src="https://img.shields.io/github/followers/shubhambattoo?label=follow&style=social" alt="Follow @shubhambattoo" />
   </a>
 </p>
-
-<!--
-**shubhambattoo/shubhambattoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
