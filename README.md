@@ -19,11 +19,11 @@ Currently listening 🎶
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shubhambatt997&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=shubhambatt997&redirect=true)
 
 <!--START_SECTION:feed-->
+* [You dont need JS for that? 🤯](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;you-dont-need-js-for-that-370i)
 * [How to setup your react applications](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;how-to-setup-your-react-applications-5222)
 * [Array Indexing Method](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;array-indexing-method-1bag)
 * [Operator Lookup - Search for JavaScript Operators](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;operator-lookup-search-for-javascript-operators-jb0)
 * [Numeric Separators](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;numeric-separators-p4b)
-* [Uploading Files to MongoDB with GridFS and Multer Using NodeJS](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;uploading-files-to-mongodb-with-gridfs-and-multer-using-nodejs-5aed)
 <!--END_SECTION:feed-->
 
 📫 How to reach me:
