@@ -16,7 +16,7 @@ I am Shubham Battoo. Self taught developer, currently working as a Software Engi
 
 Currently listening 🎶
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shubhambatt997&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=shubhambatt997&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shubhambatt997&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=shubhambatt997&redirect=true)
 
 <!--START_SECTION:feed-->
 * [You don&#39;t need dotenv.](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;you-dont-need-dotenv-9)
