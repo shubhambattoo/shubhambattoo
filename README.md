@@ -4,9 +4,9 @@
 
 I am Shubham Battoo. Self taught developer, currently working as a Software Engineer. I love working with Web Technologies and building projects from the ground up.
 
-🔭 I’m currently working on ReactJS and NodeJS projects
+🔭 I’m currently working on ReactJS, NextJS and NodeJS projects
 
-🌱 I’m currently learning ReactJS and Data Structures with JavaScript
+🌱 I’m currently learning Golang
 
 👯 I’m looking to collaborate on open source JavaScripts or TypeScript Libraries
 
