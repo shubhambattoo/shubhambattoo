@@ -19,11 +19,11 @@ Currently listening 🎶
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shubhambatt997&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=shubhambatt997&redirect=true)
 
 <!--START_SECTION:feed-->
+* [Side Projects and AI](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;side-projects-and-ai-3njg)
 * [You don&#39;t need dotenv.](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;you-dont-need-dotenv-9)
 * [Deep Cloning Objects in JavaScript](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;deep-cloning-objects-in-javascript-1816)
 * [You dont need JS for that? 🤯](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;you-dont-need-js-for-that-370i)
 * [How to setup your react applications](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;how-to-setup-your-react-applications-5222)
-* [Array Indexing Method](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;array-indexing-method-1bag)
 <!--END_SECTION:feed-->
 
 📫 How to reach me:
