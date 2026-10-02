@@ -16,7 +16,7 @@ I am Shubham Battoo. Self taught developer, currently working as a Software Engi
 
 Currently listening 🎶
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shubhambatt997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shubhambatt997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=shubhambatt997&redirect=true)
 
 <!--START_SECTION:feed-->
 * [Side Projects and AI](https:&#x2F;&#x2F;dev.to&#x2F;shubhambattoo&#x2F;side-projects-and-ai-3njg)
